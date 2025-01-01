@@ -99,6 +99,7 @@ const processText = workflow(
 
 ## Documentation
 For full documentation, visit [our documentation site](https://github.com/heidiEC/agent-functions-lib/wiki)
+<img width="723" alt="Screenshot 2024-10-25 at 2 45 40 PM" src="https://github.com/user-attachments/assets/da9d632f-43f9-495b-a7d5-ff74cbe6fa78" />
 
 ## Contributing
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
